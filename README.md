@@ -1,0 +1,1 @@
+Show All User http://localhost:8080/kk4/phpapi/output_json/api.php?id=29 Show by id http://localhost:8080/kk4/phpapi/output_json/api.php?apicall=api User not Found http://localhost:8080/kk4/phpapi/output_json/api.php?id=1111 Check with Postman https://www.getpostman.com/
